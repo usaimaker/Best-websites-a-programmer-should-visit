@@ -66,6 +66,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 📰 News
+- [AI Nexus Daily](https://ainexusdaily.vercel.app) : Free, zero-paywall daily AI/ML news digest — top research, product launches and industry moves, no signup required.
 - [ACM TechNews](http://technews.acm.org) : TechNews
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Ars Technica](https://arstechnica.com) : Posts unique quality articles on technology, science, politics and society.
